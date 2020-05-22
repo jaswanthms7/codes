@@ -1,0 +1,44 @@
+body {
+  margin: 0;
+  padding: 16px;
+  background-color: #512DA8;
+  background-image: url('jas5.jpg');
+  background-repeat: no-repeat;
+  background-attachment: fixed;
+  background-size: cover;
+}
+
+.birthday-card {
+  margin: 30px auto;
+  padding: 10px;
+  max-width: 400px;
+  background-color: white;
+  text-align: center;
+  box-shadow: 0 24px 40px -8px #311B92;
+}
+
+.birthday-card img {
+  width: 100%;
+}
+
+.insta {
+  text-align: center;
+  color: white;
+  text-decoration: underline;
+}
+
+.insta a {
+  color: orange;
+  text-decoration: none;
+  font-size: 20px;
+}
+
+.language {
+  color: white;
+  font-size: 10px;
+  position: absolute;
+  text-shadow: 10px;
+  text-decoration: inherit;
+  text-transform: capitalize;
+  transform-style: preserve-3d;
+}

@@ -1,0 +1,39 @@
+body {
+  margin: 0;
+  padding: 16px;
+  background-color: #CDDAFF;
+  background-repeat: no-repeat;
+  background-attachment: fixed;
+  background-size: cover;
+}
+
+h2 {
+  text-align: center;
+}
+
+h3 {
+  text-align: center;
+}
+
+.hint {
+  text-align: center;
+  font-size: 13px;
+}
+
+.apology {
+  text-align: center;
+}
+
+.my_centered_buttons {
+  display: flex; justify-content: center;
+}
+
+.insta {
+    text-align: center;
+    color: white;
+  }
+
+  .insta a {
+    color: blue;
+    font-size: 15px;
+  }
